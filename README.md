@@ -215,4 +215,4 @@ Razer Cortex is offered as a complete free version with all features and updates
 Unlock your gaming potential today—download Razer Cortex for free and elevate your gaming experience!
 
 ---
-**Last updated:** 2026-10-23 21:46:23 UTC
+**Last updated:** 2026-10-24 00:08:45 UTC
